@@ -17,10 +17,10 @@ Here are a few projects I'm proud of:
 - **Etch-a-Sketch** – A browser-based drawing app built with vanilla JavaScript, demonstrating DOM manipulation, event handling, and dynamic grid rendering.
 - **Calculator** – A fully functional calculator implementing core arithmetic logic, state management, and edge-case handling using plain JavaScript.
 
-## What I'm Focused On
-- Writing readable, maintainable code
-- Finishing projects properly (not tutorials)
-- Building a strong public engineering portfolio
+## Current Focus
+- Building JavaScript-heavy projects from scratch
+- Writing clean, readable code with proper documentation
+- Finishing projects end-to-end rather than collecting tutorials
 
 ## Contact
 - GitHub: https://github.com/mukul-work
