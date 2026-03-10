@@ -14,8 +14,9 @@ end-to-end projects with clean code and clear documentation.
 
 ## Projects
 Here are a few projects I'm proud of:
-- **Etch-a-Sketch** – A browser-based drawing app built with vanilla JavaScript, demonstrating DOM manipulation, event handling, and dynamic grid rendering.
-- **Calculator** – A fully functional calculator implementing core arithmetic logic, state management, and edge-case handling using plain JavaScript.
+- **Etch-a-Sketch** - A browser-based drawing app built with vanilla JavaScript, demonstrating DOM manipulation, event handling, and dynamic grid rendering.
+- **Library App** - A state-driven library management app built with vanilla JavaScript.
+- **Calculator** - A fully functional calculator implementing core arithmetic logic, state management, and edge-case handling using plain JavaScript.
 
 ## Current Focus
 - Building JavaScript-heavy projects from scratch
