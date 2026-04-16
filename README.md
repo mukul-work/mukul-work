@@ -1,6 +1,6 @@
-# Hi, I'm Mukul 👋
+# Hi, I'm Mukul
 
-CS undergrad building full-stack web apps with a focus on backend — APIs, auth, and clean server-side architecture. I care about understanding how things work, not just making them work.
+I'm a CS undergrad building full-stack web apps with a focus on backend - APIs, auth, and clean server-side architecture. I care about understanding how things work, not just making them work.
 
 ---
 
