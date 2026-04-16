@@ -1,30 +1,27 @@
-# Hi, I'm Mukul
+# Hi, I'm Mukul 👋
 
-I'm a Computer Science undergraduate focused on building strong fundamentals in
-**JavaScript, Web Development, and Software Engineering**.
+CS undergrad building full-stack web apps with a focus on backend — APIs, auth, and clean server-side architecture. I care about understanding how things work, not just making them work.
 
-I’m currently working through **The Odin Project** and building practical,
-end-to-end projects with clean code and clear documentation.
+---
 
-## Skills
-- JavaScript (ES6+)
-- HTML, CSS
-- Git & GitHub
-- Linux basics
+## Stack
+
+`Node.js` `Express` `MongoDB` `React` `JavaScript (ES6+)` `REST APIs` `Git` `JWT / OAuth`
 
 ## Projects
-Here are a few projects I'm proud of:
-- **Etch-a-Sketch** - A browser-based drawing app built with vanilla JavaScript, demonstrating DOM manipulation, event handling, and dynamic grid rendering.
-- **Library App** - A state-driven library management app built with vanilla JavaScript.
-- **Calculator** - A fully functional calculator implementing core arithmetic logic, state management, and edge-case handling using plain JavaScript.
 
-## Current Focus
-- Building JavaScript-heavy projects from scratch
-- Writing clean, readable code with proper documentation
-- Finishing projects end-to-end rather than collecting tutorials
+**Trello Clone**
+Full-stack task management app with JWT + OAuth auth, drag-and-drop boards, MongoDB, and CRUD operations.
 
-## Contact
-- GitHub: https://github.com/mukul-work
-- Website: https://mukulkashyap.com
-- Email: mukulkashyap.business@gmail.com
+**GetHired**
+College placement analytics platform — built in a team, responsible for the blog system and monorepo setup.
 
+## Currently
+
+Deepening backend fundamentals — Express middleware, route architecture, and auth flows. Exploring ML/data science on the side.
+
+Open to backend or full-stack internship opportunities.
+
+---
+
+📧 mukulkashyap.business@gmail.com · 🌐 [mukulkashyap.com](https://mukulkashyap.com)
