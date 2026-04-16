@@ -10,11 +10,11 @@ I'm a CS undergrad building full-stack web apps with a focus on backend - APIs, 
 
 ## Projects
 
-**Trello Clone: **
+**TaskFlow**:
 Full-stack task management app with JWT + OAuth auth, drag-and-drop boards, MongoDB, and CRUD operations.
 
-**GetHired: **
-College placement analytics platform — built in a team, responsible for the blog system and monorepo setup.
+**GetHired**:
+College placement dashboard with student-facing analytics and an admin panel for the placement cell.
 
 ## Currently
 
