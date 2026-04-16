@@ -16,7 +16,7 @@ College placement dashboard with student-facing analytics and an admin panel for
 
 ## Currently
 
-Deepening backend fundamentals - Express middleware, route architecture, and auth flows. Exploring ML/data science on the side.
+Deepening backend fundamentals like Express middleware, route architecture, and auth flows.
 
 Open to backend or full-stack internship opportunities.
 
