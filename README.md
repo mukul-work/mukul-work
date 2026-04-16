@@ -2,8 +2,6 @@
 
 I'm a CS undergrad building full-stack web apps with a focus on backend - APIs, auth, and clean server-side architecture. I care about understanding how things work, not just making them work.
 
----
-
 ## Stack
 
 `Node.js` `Express` `MongoDB` `React` `JavaScript (ES6+)` `REST APIs` `Git` `JWT / OAuth`
@@ -18,10 +16,9 @@ College placement dashboard with student-facing analytics and an admin panel for
 
 ## Currently
 
-Deepening backend fundamentals — Express middleware, route architecture, and auth flows. Exploring ML/data science on the side.
+Deepening backend fundamentals - Express middleware, route architecture, and auth flows. Exploring ML/data science on the side.
 
 Open to backend or full-stack internship opportunities.
 
----
 
 📧 mukulkashyap.business@gmail.com · 🌐 [mukulkashyap.com](https://mukulkashyap.com)
