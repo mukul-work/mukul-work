@@ -1,2 +1,2 @@
 ## Hi, I'm Mukul
-I'm a CS undergrad building full-stack web apps.
+CS undergrad exploring backend engineering and distributed systems.
